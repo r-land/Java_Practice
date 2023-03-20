@@ -1,4 +1,5 @@
 {
+     "java.debug.settings.forceBuildBeforeLaunch": false,
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
