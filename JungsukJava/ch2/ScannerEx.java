@@ -1,4 +1,4 @@
-package JungsukJava;
+package JungsukJava.ch2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JungsukJava;
+package JungsukJava.ch2;
 
 public class PfintfEx1 {
     public static void main(String[] args){
