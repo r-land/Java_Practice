@@ -1,4 +1,3 @@
-package JungsukJava.ch2;
 
 public class PrintEx2 {
     public static void main(String args[]) {

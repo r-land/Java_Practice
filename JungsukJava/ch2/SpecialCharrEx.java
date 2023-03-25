@@ -1,4 +1,3 @@
-package JungsukJava.ch2;
 
 public class SpecialCharrEx {
     public static void main(String args[]) {
