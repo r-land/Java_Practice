@@ -1,6 +1,6 @@
 package JungsukJava.ch3;
 
-public class OperfatorEx {
+public class OperatorEx11 {
     public static void main(String[] args) {
         char a = 'a';
         char d = 'd';
