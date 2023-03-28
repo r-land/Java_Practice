@@ -2,7 +2,6 @@ package JungsukJava.ch3;
 
 public class OperatorEx31 {
     public static void main(String[] args) {
-        int dec =1234;
         int hex =0xABCD;
         int mask = 0xF;
 
