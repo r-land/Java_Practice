@@ -1,4 +1,4 @@
-package MasterpieceJava;  
+package MasterpieceJava.ch2;  
 import java.util.Scanner;
 
 public class chap2_2 {
