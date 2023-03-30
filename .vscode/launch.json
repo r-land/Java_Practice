@@ -1,0 +1,462 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrayEx11",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx11",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CastingEx1",
+            "request": "launch",
+            "mainClass": "CastingEx1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CastingEx2",
+            "request": "launch",
+            "mainClass": "CastingEx2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CastingEx3",
+            "request": "launch",
+            "mainClass": "CastingEx3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CastingEx4",
+            "request": "launch",
+            "mainClass": "CastingEx4",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CharToCode",
+            "request": "launch",
+            "mainClass": "CharToCode",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FloatEx",
+            "request": "launch",
+            "mainClass": "FloatEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FloatToBinEx",
+            "request": "launch",
+            "mainClass": "FloatToBinEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx10",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx10",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx11",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx11",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx12",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx12",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx13",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx13",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx14",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx14",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx15",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx15",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx16",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx16",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx17",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx17",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx18",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx18",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx19",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx19",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx2",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx20",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx20",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx21",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx21",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx22",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx22",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx23",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx23",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx24",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx24",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx25",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx25",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx26",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx26",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx27",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx27",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx28",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx28",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx29",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx29",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx3",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx30",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx30",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx31",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx31",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx32",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx32",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx4",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx4",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx5",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx5",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx6",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx6",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx7",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx7",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx8",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx8",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OperatorEx9",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch3.OperatorEx9",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FlowEx1",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch4.FlowEx1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx1",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx10",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx10",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx2",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx3",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx4",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx4",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx5",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx5",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx6",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx6",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx7",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx7",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx8",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx8",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx9",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch5.ArrayEx9",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "chap2_1",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch2.chap2_1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "chap2_2",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch2.chap2_2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "chap2_3",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch2.chap2_3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ch3_0",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch3.ch3_0",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ch3_s",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch3.ch3_s",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "OverflowEx",
+            "request": "launch",
+            "mainClass": "OverflowEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "PfintfEx1",
+            "request": "launch",
+            "mainClass": "PfintfEx1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "PrintEx2",
+            "request": "launch",
+            "mainClass": "PrintEx2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ScannerEx",
+            "request": "launch",
+            "mainClass": "ScannerEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "SpecialCharrEx",
+            "request": "launch",
+            "mainClass": "SpecialCharrEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "StringEx",
+            "request": "launch",
+            "mainClass": "StringEx",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "VarEx1",
+            "request": "launch",
+            "mainClass": "VarEx1",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "VarEx2",
+            "request": "launch",
+            "mainClass": "VarEx2",
+            "projectName": "java test_25afbd0a"
+        }
+    ]
+}
