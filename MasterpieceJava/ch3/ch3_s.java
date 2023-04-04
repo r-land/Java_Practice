@@ -16,13 +16,13 @@ public class ch3_s {
 
         int[] picks = new int[pick];
         for (int i = 0; i < picks.length; i++) {
-            picks[i] = rand.nextInt(21);
+            picks[i] = rand.nextInt(22);
             for (int j = 0; j < i; j++) {
                 if (picks[i] == picks[j])
                     i--;
             }
         }
-        for (int i = 0; i < hightech.length; i++) {
+        for (int i = 0; i < picks.length; i++) {
             System.out.print(hightech[picks[i]] + " ");
         }
 
