@@ -6,7 +6,7 @@ class MyMetric {
         return distance;
         
     }
-    public static void miletoKilo(double d){
+    public static void mileToKilo(double d){
         distance = d*1.6093;
     }
 }

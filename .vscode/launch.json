@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircleTest",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch4.CircleTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "ArrayEx11",
             "request": "launch",
             "mainClass": "JungsukJava.ch5.ArrayEx11",
