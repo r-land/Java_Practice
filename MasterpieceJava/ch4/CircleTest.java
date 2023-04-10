@@ -5,6 +5,8 @@ package MasterpieceJava.ch4;
         double cx;
         double cy;
 
+        public Circle(double d) {
+        }
         public double area(){
             return 3.141592*r*r;
         }
@@ -26,8 +28,12 @@ package MasterpieceJava.ch4;
         public void setCy(double cy){
             this.cy = cy;
         }
-    
+        public double getArea() {
+            return 0;
+        }
     }
+    
+
     public class CircleTest {
         public static void main(String[] args) {
             Circle c = new Circle();
