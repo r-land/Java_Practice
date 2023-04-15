@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DrawShape",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.DrawShape",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CaptionTvTest",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.CaptionTvTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "CircleTest",
             "request": "launch",
             "mainClass": "MasterpieceJava.ch4.CircleTest",
