@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PositivePoint",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch5.PositivePoint",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "DrawShape",
             "request": "launch",
             "mainClass": "JungsukJava.ch7.DrawShape",

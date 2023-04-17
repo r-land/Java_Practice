@@ -12,8 +12,8 @@ class Point {
 public class ColorPoint extends Point{
 	private String color;
 	public ColorPoint(int x, int y, String color) {
-		super(x, y);
-		this.color = color;
+		super(x, y); //조상클래스 생성자 호출
+		this.color = color; //멤버변수와 지역변수 이름같을때 구별
 	}
 	public void setXY(int x, int y) {move(x,y);}
 	public void setColor(String color) {this.color = color;}
