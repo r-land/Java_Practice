@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlowEx4",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch4.FlowEx4",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FlowEx6",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch4.FlowEx6",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FlowEx8",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch4.FlowEx8",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "FlowEx7",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch4.FlowEx7",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "PositivePoint",
             "request": "launch",
             "mainClass": "MasterpieceJava.ch5.PositivePoint",
