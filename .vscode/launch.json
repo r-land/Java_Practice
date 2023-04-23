@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BookTest",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch4.BookTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "DocumentTest",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch6.DocumentTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "MasterpieceJava.ch5.Game",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "FlowEx4",
             "request": "launch",
             "mainClass": "JungsukJava.ch4.FlowEx4",
