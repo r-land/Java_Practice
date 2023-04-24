@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceTest3",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.InterfaceTest3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.InterfaceTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest2",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.InterfaceTest2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceFest",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch7.InterfaceFest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "BookTest",
             "request": "launch",
             "mainClass": "MasterpieceJava.ch4.BookTest",

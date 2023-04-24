@@ -2,14 +2,19 @@ package MasterpieceJava.ch5;
 
 import java.util.Scanner;
 
-import javax.swing.event.SwingPropertyChangeSupport;
 
 class player{
-String[] weapon;
 int currentHP;
 int heal;
 int attack;
-boolean life = true;}
+boolean life = true;
+
+public player(int currentHP, int heal, int attack){
+this.currentHP = currentHP;
+this.heal = heal;
+this.attack = attack;}
+
+}
 
 class weapon{
 weapon gun = new weapon();
@@ -20,6 +25,10 @@ weapon knife = new weapon();
 
 }
 class Unit extends player{
+    public Unit(int currentHP, int heal, int attack) {
+        super(currentHP, heal, attack);
+    }
+
     Unit unit1 = new Unit(){int currentHP= 100; int heal = 100; int attack = 10;}
 
     if(currentHP<=0){unit1.life = false;
@@ -29,7 +38,12 @@ class Unit extends player{
 
 
 public class Game extends Unit{
-	public static void main(String[] args) {
+	public Game(int currentHP, int heal, int attack) {
+        super(currentHP, heal, attack);
+        
+    }
+
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("캐릭터 생성 unit1[0] unit[1] 선택해주세요 >");
         String id = scan.nextLine();
