@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StaticExam",
+            "request": "launch",
+            "mainClass": "ModooJava.StaticExam",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CarExam",
+            "request": "launch",
+            "mainClass": "ModooJava.CarExam",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "InterfaceTest3",
             "request": "launch",
             "mainClass": "JungsukJava.ch7.InterfaceTest3",
