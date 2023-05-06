@@ -6,7 +6,27 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
+            "name": "CardToString2",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch9.CardToString2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "ToStringTest",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch9.ToStringTest",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "CardTOString",
+            "request": "launch",
+            "mainClass": "JungsukJava.ch9.CardTOString",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "EqualsEx1",
             "request": "launch",
             "mainClass": "JungsukJava.ch9.EqualsEx1",
@@ -14,8 +34,6 @@
         },
         {
             "type": "java",
-=======
->>>>>>> e5b9bdc0944d7558b26dbc8c907d8a8114e6c221
             "name": "StaticExam",
             "request": "launch",
             "mainClass": "ModooJava.StaticExam",
