@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "EqualsEx1",
             "request": "launch",
             "mainClass": "JungsukJava.ch9.EqualsEx1",
@@ -13,6 +14,8 @@
         },
         {
             "type": "java",
+=======
+>>>>>>> e5b9bdc0944d7558b26dbc8c907d8a8114e6c221
             "name": "StaticExam",
             "request": "launch",
             "mainClass": "ModooJava.StaticExam",
