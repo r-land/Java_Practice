@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex7_4",
+            "request": "launch",
+            "mainClass": "JungsukgichoJava.ch07.Ex7_4",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "Ex7_3",
+            "request": "launch",
+            "mainClass": "JungsukgichoJava.ch07.Ex7_3",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
+            "name": "Ex7_2",
+            "request": "launch",
+            "mainClass": "JungsukgichoJava.ch07.Ex7_2",
+            "projectName": "java test_25afbd0a"
+        },
+        {
+            "type": "java",
             "name": "CardToString2",
             "request": "launch",
             "mainClass": "JungsukJava.ch9.CardToString2",
