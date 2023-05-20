@@ -6,30 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Ex6_11",
             "request": "launch",
-            "mainClass": "JungsukgichoJava.ch06.Main",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7_12",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7_12",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7_6",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7_6",
+            "mainClass": "JungsukgichoJava.ch06.Ex6_11",
             "projectName": "java test_25afbd0a"
         },
         {
