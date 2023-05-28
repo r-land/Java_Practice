@@ -4,34 +4,7 @@
     // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch06.Main",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7_12",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7_12",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7",
-            "projectName": "java test_25afbd0a"
-        },
-        {
-            "type": "java",
-            "name": "Ex7_6",
-            "request": "launch",
-            "mainClass": "JungsukgichoJava.ch07.Ex7_6",
-            "projectName": "java test_25afbd0a"
-        },
+        
         {
             "type": "java",
             "name": "Ex7_4",
