@@ -4,6 +4,9 @@
     // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
     "version": "0.2.0",
     "configurations": [
+        
+
+<<<<<<< HEAD
         {
             "type": "java",
             "name": "Ex6_11",
@@ -11,6 +14,9 @@
             "mainClass": "JungsukgichoJava.ch06.Ex6_11",
             "projectName": "java test_25afbd0a"
         },
+=======
+        
+>>>>>>> 2cbdb543275a1caef444191a239132d7028ab4f3
         {
             "type": "java",
             "name": "Ex7_4",
